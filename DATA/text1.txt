@@ -1,0 +1,4 @@
+[JUMP]goto a,
+[JZE]if ZF=1 goto a
+[JMN]if SF=1 goto a
+[JPL]if	ZF=0^SF=0 goto a

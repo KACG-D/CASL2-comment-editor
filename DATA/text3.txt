@@ -1,0 +1,6 @@
+[LD]a<-(b+c),
+[LAD]a<-b+c,
+[ST]a->(b+c),
+[ADDA]a<-a+(b+c),
+[SUBA]a<-a-(b+c),
+[CPA]a:(b+c),
